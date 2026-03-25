@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "oyasumi",
+  "base_artist": "Shiggy Jr.",
+  "createdAt": "2026-03-25T07:20:53.000580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oyasumi Rosie - Angel Baby Heno Omage - (Live At Yoyogi Daiichi Taiikukan /1996.4.28)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/01_Oyasumi_Rosie_-_Angel_Baby_Heno_Omage_-_(Live_At_Yoyogi_Daiichi_Taiikukan__1996._Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "oyasumi",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/02_oyasumi_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oyasumi no Uta",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/03_Oyasumi_no_Uta_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/04_Oyasumi_tricot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "oyasumi",
+      "artist": "Shiggy Jr.",
+      "has_synced": true,
+      "path": "select/05_oyasumi_Shiggy_Jr..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/06_Oyasumi_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oyasumi [おやすみ]",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/07_Oyasumi_[おやすみ]_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oyasumi [おやすみ]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": false,
+      "path": "select/08_Oyasumi_[おやすみ]_POLKADOT_STINGRAY.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/09_Oyasumi_tricot.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/10_Oyasumi_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "Lovely Summer Chan",
+      "has_synced": true,
+      "path": "select/11_Oyasumi_Lovely_Summer_Chan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "Lomepal",
+      "has_synced": true,
+      "path": "select/12_Oyasumi_Lomepal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "Dezert",
+      "has_synced": true,
+      "path": "select/13_Oyasumi_Dezert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "oyasumi (おやすみ)",
+      "artist": "Kyary Pamyu Pamyu",
+      "has_synced": true,
+      "path": "select/14_oyasumi_(おやすみ)_Kyary_Pamyu_Pamyu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "Shinsei kamattechan",
+      "has_synced": true,
+      "path": "select/15_Oyasumi_Shinsei_kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oyasumi Punpun",
+      "artist": "David Vitela",
+      "has_synced": true,
+      "path": "select/16_Oyasumi_Punpun_David_Vitela.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oyasumi",
+      "artist": "yuzu",
+      "has_synced": false,
+      "path": "select/17_Oyasumi_yuzu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "oyasumi",
+      "artist": "Shiggy Jr.",
+      "has_synced": false,
+      "path": "select/pl_01_oyasumi_Shiggy_Jr..txt"
+    }
+  ]
+}
